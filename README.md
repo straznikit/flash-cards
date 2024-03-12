@@ -9,7 +9,7 @@ Recording progress: implements spaced repetition techniques. After clicking the 
 User-friendly interface: Offers a simple and intuitive interface for learning German words and their English translations, making it easy for users to start learning.
 
 Getting Started:
-#### 1. Installation:
+### 1. Installation:
 Clone this repository to your local machine.
 
 ```python
@@ -18,7 +18,7 @@ git clone [https://github.com/your-username/german-vocabulary-learning-tool.git]
 
 ```
 
-#### 2. Usage: 
+### 2. Usage: 
 Run the script and follow the on-screen instructions to begin learning German vocabulary using flashcards.
 
 ```python
@@ -27,7 +27,7 @@ python main.py
 
 ```
 
-#### 3. Contribution: 
+### 3. Contribution: 
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
 
 ## Requirements:
