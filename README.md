@@ -11,18 +11,20 @@ User-friendly interface: Offers a simple and intuitive interface for learning Ge
 Getting Started:
 1. Installation: Clone this repository to your local machine.
 
-bash
 ```python
 
 git clone [https://github.com/your-username/german-vocabulary-learning-tool.git](https://github.com/straznikit/flash-cards.git)
 
 ```
-git clone [https://github.com/your-username/german-vocabulary-learning-tool.git](https://github.com/straznikit/flash-cards.git)
 
 2. Usage: Run the script and follow the on-screen instructions to begin learning German vocabulary using flashcards.
 
-Copy code
+```python
+
 python main.py
+
+```
+
 3. Contribution: Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
 
 # Requirements:
