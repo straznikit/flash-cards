@@ -19,7 +19,7 @@ git clone [https://github.com/your-username/german-vocabulary-learning-tool.git]
 ```
 
 ### 2. Usage: 
-Run the script and follow the on-screen instructions to begin learning German vocabulary using flashcards.
+Run the script using the main file and start learning German vocabulary with flashcards.
 
 ```python
 
