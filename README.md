@@ -14,7 +14,7 @@ Clone this repository to your local machine.
 
 ```python
 
-git clone [(https://github.com/straznikit/flash-cards.git)]
+git clone https://github.com/straznikit/flash-cards.git
 
 ```
 
