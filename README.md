@@ -2,14 +2,14 @@
 This Python script serves as a helpful tool for learning German vocabulary through the use of flashcards. Whether you're a beginner or looking to expand your German language skills, this program provides an interactive and efficient way to memorize words and their translations.
 
 ## Features:
-Flashcard system: uses a flashcard-based learning method, presenting users with German words and encouraging them to recall the corresponding translations.
+1. Flashcard system: uses a flashcard-based learning method, presenting users with German words and encouraging them to recall the corresponding translations.
 
-Recording progress: implements spaced repetition techniques. After clicking the check icon, the program removes the word you already know from the list to learn.
+2. Recording progress: implements spaced repetition techniques. After clicking the check icon, the program removes the word you already know from the list to learn.
 
-User-friendly interface: Offers a simple and intuitive interface for learning German words and their English translations, making it easy for users to start learning.
+3. User-friendly interface: Offers a simple and intuitive interface for learning German words and their English translations, making it easy for users to start learning.
 
 Getting Started:
-### 1. Installation:
+## Installation:
 Clone this repository to your local machine.
 
 ```python
@@ -18,7 +18,7 @@ git clone https://github.com/straznikit/flash-cards.git
 
 ```
 
-### 2. Usage: 
+## Usage: 
 Run the script using the main file and start learning German vocabulary with flashcards.
 
 ```python
@@ -27,7 +27,7 @@ python main.py
 
 ```
 
-### 3. Contribution: 
+## Contribution: 
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
 
 ## Requirements:
