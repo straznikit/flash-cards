@@ -8,7 +8,7 @@ This Python script serves as a helpful tool for learning German vocabulary throu
 
 3. User-friendly interface: Offers a simple and intuitive interface for learning German words and their English translations, making it easy for users to start learning.
 
-Getting Started:
+## Getting Started:
 ## Installation:
 Clone this repository to your local machine.
 
