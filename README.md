@@ -29,9 +29,7 @@ python main.py
 
 ## Contribution: 
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
-
 ## Requirements:
 Python 3.12
-
 ## Support:
 For any questions, issues, or suggestions, please feel free to contact me or open an issue on GitHub.
